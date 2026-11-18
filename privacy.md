@@ -7,21 +7,23 @@ permalink: /privacy/
 
 *Last updated: 17 November 2026*
 
-Treefolk Tales is a game made for children by Taryn Weiss ("we"). This policy explains what the game
-collects, why, and what it never collects. It is written for parents and guardians.
+Treefolk Tales is a game for everyone, made by Taryn Weiss ("we"). Players of any age are welcome,
+children included, so the game is built to be safe for them: it collects nothing personal from anyone.
+This policy explains what the game collects, why, and what it never collects. It is written for all
+players, and for parents and guardians of younger ones.
 
 ## The short version
 
-- The game **does not collect any personal information**. No names, no email addresses, no photos, no
-  location, no contacts, and nothing that tells us who your child is.
-- The game **has no ads**, and it does not track your child across other apps or websites.
+- The game **does not collect any personal information** from anyone. No names, no email addresses, no
+  photos, no location, no contacts, and nothing that tells us who a player is.
+- The game **has no ads**, and it does not track anyone across other apps or websites.
 - The game sends us **anonymous play data**, such as which screens are used and how far the tree has grown.
   We use it only to make the game better.
 - We **never sell or share** this data with anyone for advertising or any other purpose.
 
 ## What the game sends us
 
-While your child plays, the game keeps a small, anonymous summary of the session. It sends the summary to
+While someone plays, the game keeps a small, anonymous summary of the session. It sends the summary to
 us when the game is closed or put in the background. The summary contains:
 
 - **How the game is played.** Which screens and menus were opened, roughly where on the screen taps
@@ -42,12 +44,12 @@ us when the game is closed or put in the background. The summary contains:
 ## What the game never collects
 
 Names, email addresses, phone numbers, photos, voice, location, contacts, the device's advertising
-identifier, Apple account details, Game Center names, or anything your child types.
+identifier, Apple account details, Game Center names, or anything a player types.
 
 ## Why we collect it
 
 Only to improve the game: to find screens that are confusing, parts that are too slow or too fast, and
-bugs. The data is never used for advertising, never used to build a profile of a child, and never sold,
+bugs. The data is never used for advertising, never used to build a profile of anyone, and never sold,
 rented or shared.
 
 ## Where it is stored, and for how long
@@ -61,7 +63,7 @@ Cloudflare handles the connection when the game sends a summary, and so briefly 
 
 These are run by Apple under [Apple's privacy policy](https://www.apple.com/legal/privacy/), not by us:
 
-- **Game Center** for achievements and leaderboards, if your child is signed in to Game Center.
+- **Game Center** for achievements and leaderboards, if the player is signed in to Game Center.
 - **iCloud** to keep saved progress in step across your family's devices. Saved games are stored in your
   own iCloud account, and we cannot see them.
 - **In-App Purchases**, handled entirely by Apple.
@@ -70,15 +72,16 @@ These are run by Apple under [Apple's privacy policy](https://www.apple.com/lega
 
 ## Children's privacy
 
-Treefolk Tales is listed in the App Store's Kids category. We follow Apple's rules for kids' apps, the
-US Children's Online Privacy Protection Act (COPPA) and the GDPR's protections for children. We do not
-knowingly collect personal information from children. The game has no third-party analytics and no
+Treefolk Tales is for everyone, and children are welcome to play. Because they may, the game treats
+every player the way children's privacy laws ask: it follows Apple's rules for kids' apps, the US
+Children's Online Privacy Protection Act (COPPA) and the GDPR's protections for children. We do not
+collect personal information from anyone, child or adult. The game has no third-party analytics and no
 advertising, and it does not link to other websites from inside the game.
 
 ## Your choices
 
-Because the play data is anonymous and not linked to any person, we cannot find or return one child's
-data. To start afresh, delete the game and its saved progress. The next install creates a new random
+Because the play data is anonymous and not linked to any person, we cannot find or return one
+player's data. To start afresh, delete the game and its saved progress. The next install creates a new random
 code. If you have any questions or concerns, please write to us and we will help.
 
 ## Changes to this policy
