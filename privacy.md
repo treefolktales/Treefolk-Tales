@@ -94,3 +94,7 @@ requires it.
 
 Taryn Weiss  
 Email: [treefolktales@gmail.com](mailto:treefolktales@gmail.com)
+
+---
+
+© 2026 Taryn Weiss. All rights reserved. Treefolk Tales, its characters and its art may not be copied or reused without permission.
